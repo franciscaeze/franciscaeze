@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Francisca Chinonye Ezeabikwa,i am a datascientist in the making,i am looking forward to working on numerous project
+- 👋 Hi, I’m Francisca Chinonye Ezeabikwa,i am a data analyst in the making,i am looking forward to working on numerous project
 - 👀 I’m interested in data analysis and data science
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on various project
 - 📫 How to reach me :ezeabikwafrancisca52@gmail.com
 
