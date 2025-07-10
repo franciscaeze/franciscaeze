@@ -1,39 +1,42 @@
 <h2 align="left">👨🏿‍💻 Francisca Chinonye Ezeabikwa </h2>
 
 ###
-`Techdiva (Data Analyst | Co-Founder | Project Coodinator)`
+`Techdiva (Data Analyst | Co-Founder | Project Coodinator | Africa's Data Educator | Trained 1.5k+ Analysts with 90% Success Rate | Trasforming with Data Driven Insights)`
 
 
-# 👋 Hello, Recruiter! Welcome to My GitHub
+# 👋 Hello! Welcome to My GitHub
 
 I'm a **Data Analyst** with a unique blend of Agricultural Economics and Extension expertise—turning raw data into powerful stories that help businesses bloom 🌾📊
 
-With hands-on experience in **Excel**, **Power BI**, **SQL**, and **Python**, I specialize in transforming messy spreadsheets and hidden database nuggets into sleek dashboards, smart insights, and meaningful strategies.
+With hands-on experience in **Excel**, **Power BI**, **SQL**, and **Python**, I specialize in transforming messy data and hidden database nuggets into sleek dashboards, smart insights, and meaningful strategies.
 
 ---
 
 ## 🎯 What I Excel At
 
-- 🧹 **Taming Messy Data**  
-  Like a cleanup crew for spreadsheets—ensuring data is accurate, organized, and analysis-ready.
+- 🧹 **Data Cleaning & Preparation**  
+  Ensuring datasets are accurate, consistent, organized, and ready for analysis.
 
 - 🔍 **Spotting Golden Nuggets**  
   Digging deep to uncover trends, KPIs, and opportunities that matter.
 
 - 📊 **Creating Dashboards That Wow**  
-  Beautiful Power BI and Excel reports that speak louder than tables.
+  Beautiful Power BI and Excel reports that speak louder than tables, that communicate clearly.
 
 - 🛢️ **SQL Sleuthing**  
   Writing efficient queries to pull the *right* data at the *right* time.
 
 - 🔁 **Magic with Automation**  
-  Saving hours (and headaches) with Power Query and Excel Micros.
+  Saving hours (and headaches) with Power Query and Excel Macros.
+
+- 🤝 **Cross-functional Collaboration**  
+  Coordinating teams to ensure smooth project execution and results delivery.
 
 ---
 
 ## 🌟 Why I Stand Out
 
-I don’t just work with numbers—I **listen** to them. I craft narratives that fuel decisions, optimize performance, and make complex insights digestible. Whether you're a startup or a global enterprise, I help teams act smarter, faster, and with confidence.
+I don’t just work with numbers—I **listen** to them. I craft narratives that fuel decisions, optimize performance, and make complex insights digestible. Whether you're a startup or a global enterprise, I help teams act smarter, faster, and with confidence. I combine domain expertise with a strong storytelling mindset, crafting data narratives that resonate with stakeholders. Whether optimizing performance metrics or building decision-making tools, I bring clarity, precision, and creativity to every project.
 
 ---
 
@@ -57,12 +60,12 @@ I don’t just work with numbers—I **listen** to them. I craft narratives that
 > 💬 “Data is like soil. With care and curiosity, I help ideas grow.” 🌱
 
 
+---
 
 
+## 💞️ I’m looking to collaborate on various projects
 
-- 💞️ I’m looking to collaborate on various project
-
-
+I’m open to collaborating on data-driven projects, business intelligence tools, and community tech initiatives. Let’s build something impactful!
 <!---
 franciscaeze/franciscaeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
