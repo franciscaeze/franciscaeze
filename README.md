@@ -1,7 +1,7 @@
 <h2 align="left">👨🏿‍💻 Francisca Chinonye Ezeabikwa </h2>
 
 ###
-`Techdiva (Data Analyst | Co-Founder | Project Coodinator | Africa's Data Educator | Trained 1.5k+ Analysts with 90% Success Rate | Trasforming with Data Driven Insights)`
+`Techdiva (Data Analyst | Project Coodinator | Africa's Data Educator | Trained 1.5k+ Analysts with 90% Success Rate | Trasforming with Data-Driven Insights)`
 
 
 # 👋 Hello! Welcome to My GitHub
